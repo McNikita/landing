@@ -82,7 +82,10 @@ h6{
 .infop{
     width: 100%;
 }
-
+.logo{
+    background-color: black;
+    border-radius: 100%;
+}
 
  
 
